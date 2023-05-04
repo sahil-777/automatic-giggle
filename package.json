@@ -1,0 +1,27 @@
+{
+  "name": "automatic-giggle",
+  "version": "1.0.0",
+  "description": "CRUD App with Express.js, MongoDB & some AWS functionalities ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahil-777/automatic-giggle.git"
+  },
+  "keywords": [
+    "Node.js",
+    "MongoDB",
+    "AWS"
+  ],
+  "author": "Sahil Velhal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahil-777/automatic-giggle/issues"
+  },
+  "homepage": "https://github.com/sahil-777/automatic-giggle#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
